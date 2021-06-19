@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello everybody! 👋
 
----
+My name is Mikhail. I am currently developing in golang, php, and typescript (angular). Some information about my projects:
 
 ### Projects
 
@@ -9,8 +9,6 @@
 [![dewep-online](https://avatars.githubusercontent.com/u/65920534?s=40&v=4)](https://github.com/dewep-online) - here I post various prototypes or ready-made projects, on the basis of which you can build your applications
 
 [![arwos](https://avatars.githubusercontent.com/u/65126928?s=40&v=4)](https://github.com/arwos) - in this project, the plan is to create a system with rapid deployment to optimize the execution of routine processes, for example: building applications, deploying applications, executing scripts, etc.
-
----
 
 ### Note
 
