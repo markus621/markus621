@@ -4,11 +4,13 @@ My name is Mikhail. I am currently developing in golang, php, and typescript (an
 
 ### Projects
 
-[![deweppro](https://avatars.githubusercontent.com/u/44483928?s=40&v=4)](https://github.com/deweppro) - this project is dedicated to the development of libraries for rapid prototyping of applications in Golang, PHP, Angular.
+[![deweppro](https://avatars.githubusercontent.com/u/44483928?s=30&v=4)](https://github.com/deweppro) - libraries in Golang, PHP
 
-[![dewep-online](https://avatars.githubusercontent.com/u/65920534?s=40&v=4)](https://github.com/dewep-online) - here I post various prototypes or ready-made projects, on the basis of which you can build your applications
+[![dewep-online](https://avatars.githubusercontent.com/u/65920534?s=30&v=4)](https://github.com/dewep-online) - here I post various prototypes or ready-made projects, on the basis of which you can build your applications
 
-[![arwos](https://avatars.githubusercontent.com/u/65126928?s=40&v=4)](https://github.com/arwos) - in this project, the plan is to create a system with rapid deployment to optimize the execution of routine processes, for example: building applications, deploying applications, executing scripts, etc.
+[![uxwb](https://avatars.githubusercontent.com/u/111394190?s=30&v=4)](https://github.com/uxwb) - libraries in Angular
+
+[![arwos](https://avatars.githubusercontent.com/u/65126928?s=30&v=4)](https://github.com/arwos) - this project is about CI/CD
 
 ### Note
 
