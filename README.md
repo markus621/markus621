@@ -4,7 +4,7 @@ My name is Mikhail. I am currently developing in golang, php, and typescript (an
 
 ### Projects
 
-[![OSSPkg](https://avatars.githubusercontent.com/u/134978195?s=30&v=4)](https://github.com/deweppro) - open sourse libraries/app in Golang, PHP, Angular
+[![OSSPkg](https://avatars.githubusercontent.com/u/134978195?s=30&v=4)](https://github.com/osspkg) - open sourse libraries/app in Golang, PHP, Angular
 
 [![arwos](https://avatars.githubusercontent.com/u/65126928?s=30&v=4)](https://github.com/arwos) - this project is about CI/CD
 
