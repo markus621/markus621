@@ -19,4 +19,4 @@ My name is Mikhail. I am currently developing in golang, php, and typescript (an
 I am engaged in the development of my projects solely on my own initiative and at my own expense. 
 
 If you are interested in my projects and want to support their development, you can participate in 
-the development or help financially by clicking on the [![link](https://uri.one/badge/light/donate/link/image.svg)](https://pay.cloudtips.ru/p/67a6df52)
+the development or help financially by clicking on the [![link](https://uri.one/badge/light/donate/link/image.svg)](https://pay.cloudtips.ru/p/39f29255)
