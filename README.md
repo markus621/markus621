@@ -5,11 +5,11 @@ My name is Mikhail. I am currently developing in golang, php, and typescript (an
 ### Projects
 | | |
 |---|---|
-|[![OSSPkg](https://avatars.githubusercontent.com/u/134978195?s=60&v=4)](https://github.com/osspkg)|Open sourse libraries/app in Golang, PHP, Angular|
-|[![arwos](https://avatars.githubusercontent.com/u/65126928?s=30&v=4)](https://github.com/arwos)|Project is about CI/CD|
-|[goppy.ru](https://goppy.ru)|Microservice Toolkit|
-|[go pkg](https://go.osspkg.com/)|OSSPkg Go packages|
-|[onega-ui](https://onega-ui.osspkg.com/)|UI Kit for Angular|
+|[![OSSPkg](https://uri.one/badge/danger/github/osspkg/image.svg)](https://github.com/osspkg)|Open sourse libraries/app in Golang, PHP, Angular|
+|[![arwos](https://uri.one/badge/danger/github/arwos/image.svg)](https://github.com/arwos)|Project is about CI/CD|
+|[![goppy.ru](https://uri.one/badge/success/osspkg/goppy/image.svg)](https://goppy.ru)|Microservice Toolkit|
+|[![go pkg](https://uri.one/badge/success/osspkg/go%20pkgs/image.svg)](https://go.osspkg.com/)|OSSPkg Go packages|
+|[![@onega-ui](https://uri.one/badge/warning/osspkg/@onega-ui/image.svg)](https://onega-ui.osspkg.com/)|UI Kit for Angular|
 
 
 
